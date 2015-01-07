@@ -2,5 +2,8 @@
 
 return [
     'name'        => 'Example Module',
-    'description' => 'This is an example module for demonstration purposes only.'
+    'description' => 'This is an example module for demonstration purposes only.',
+    'section'     => [
+        'examples' => 'Examples'
+    ]
 ];
