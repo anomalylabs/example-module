@@ -9,4 +9,5 @@ class ExampleModuleInstaller extends ModuleInstaller
         'Anomaly\ExampleModule\Installer\ExampleFieldInstaller',
         'Anomaly\ExampleModule\Installer\ExampleStreamInstaller'
     ];
+
 }

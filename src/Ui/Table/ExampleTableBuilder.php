@@ -29,12 +29,12 @@ class ExampleTableBuilder extends TableBuilder
                 [
                     'heading' => 'Is this awesome?',
                     'value'   => function (ExampleModel $entry) {
-                            if ($entry->isAwesome()) {
-                                return 'Sure is.';
-                            }
-
-                            return 'Nope.';
+                        if ($entry->isAwesome()) {
+                            return 'Sure is.';
                         }
+
+                        return 'Nope.';
+                    }
                 ]
             ]
         );

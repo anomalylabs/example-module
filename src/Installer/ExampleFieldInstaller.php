@@ -17,4 +17,5 @@ class ExampleFieldInstaller extends FieldInstaller
             ]
         ]
     ];
+
 }

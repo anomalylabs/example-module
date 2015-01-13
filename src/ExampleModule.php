@@ -11,4 +11,5 @@ class ExampleModule extends Module
      * @var string
      */
     protected $navigation = 'streams::navigation.website';
+
 }

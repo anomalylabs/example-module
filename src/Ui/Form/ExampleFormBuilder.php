@@ -20,4 +20,5 @@ class ExampleFormBuilder extends FormBuilder
     ];
 
     protected $actions = ['save'];
+
 }

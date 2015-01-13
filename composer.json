@@ -2,7 +2,12 @@
     "name": "anomaly/example-module",
     "type": "streams-addon",
     "description": "This is an example module for demonstration purposes only.",
-    "keywords": ["example", "streams", "pyrocms", "laravel"],
+    "keywords": [
+        "example",
+        "streams",
+        "pyrocms",
+        "laravel"
+    ],
     "homepage": "http://anomaly.is/",
     "license": "MIT",
     "authors": [

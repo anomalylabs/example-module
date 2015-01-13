@@ -14,4 +14,5 @@ class ExampleStreamInstaller extends StreamInstaller
         ],
         'example_select' => []
     ];
+
 }
